@@ -13,7 +13,7 @@ require (
 	github.com/hashicorp/go-version v1.2.1
 	github.com/kayac/go-config v0.5.0
 	github.com/kylelemons/godebug v1.1.0
-	github.com/mattn/go-isatty v0.0.12
+	github.com/mattn/go-isatty v0.0.13
 	github.com/morikuni/aec v1.0.0
 	github.com/pkg/errors v0.9.1
 	gopkg.in/yaml.v2 v2.3.0
